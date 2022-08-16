@@ -3,10 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 website URL
 https://shetty-face-read-app.netlify.app
 
-## application docs
-the documentation page will be only accesible for people given access by swagath shetty for protection reason
-contact swagath shetty to view the documentation for the app
-https://www.notion.so/face-detection-app-documentation-9fe39e657d0a4c3694195705976f1331
+
 
 
 ## Available Scripts
